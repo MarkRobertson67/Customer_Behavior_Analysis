@@ -37,8 +37,10 @@ The dataset is loaded and processed using Python before being stored in a SQL da
 
 ## Data Pipeline
 
-Excel Dataset  
+Raw Excel Dataset  
 ↓  
+Raw Excel to CSV
+↓ 
 Python (Pandas) Data Cleaning  
 ↓  
 Cleaned Dataset  
