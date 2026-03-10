@@ -196,6 +196,8 @@ file.
 
 ### 5. Open the Power BI Dashboard
 
+Power BI was connected directly to the PostgreSQL database so the dashboard reflects the cleaned analytical dataset.
+
 Open the .pbix file in Power BI Desktop to interact with the dashboard.
 
 ### Project Structure
