@@ -126,7 +126,7 @@ GROUP BY customer_segment;
 
 ## Dashboard
 
-A Power BI dashboard was built to visualize the key insights from the analysis.
+A Power BI dashboard was built to visualize the key insights from the analysis.  Power BI was connected directly to the PostgreSQL database so the dashboard reflects the cleaned analytical dataset.
 
 <img width="864" height="550" alt="image" src="https://github.com/user-attachments/assets/4fbf9107-3ffd-4495-b320-36e7cffd07ce" />
 
@@ -195,8 +195,6 @@ sql_queries.sql
 file.
 
 ### 5. Open the Power BI Dashboard
-
-Power BI was connected directly to the PostgreSQL database so the dashboard reflects the cleaned analytical dataset.
 
 Open the .pbix file in Power BI Desktop to interact with the dashboard.
 
