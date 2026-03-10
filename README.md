@@ -51,19 +51,19 @@ df.head()
 
 ```
 
-2. Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 
 Performed exploratory analysis to understand the data.
 
 Key steps included:
 
-Checking missing values
+- Checking missing values
 
-Identifying outliers
+- Identifying outliers
 
-Understanding distributions
+- Understanding distributions
 
-Analyzing correlations
+- Analyzing correlations
 
 ```python
 
@@ -73,19 +73,19 @@ df.isnull().sum()
 Visualizations were used to better understand patterns and trends.
 
 
-3. Data Cleaning
+### 3. Data Cleaning
 
 Data cleaning steps included:
 
-Handling missing values
+- Handling missing values
 
-Standardizing column names
+- Standardizing column names
 
-Converting data types
+- Converting data types
 
-Removing duplicates
+- Removing duplicates
 
-Creating derived features
+- Creating derived features
 
 ```python
 
@@ -93,11 +93,11 @@ df.columns = df.columns.str.lower().str.replace(" ", "_")
 df.drop_duplicates(inplace=True)
 ```
 
-4. SQL Analysis
+### 4. SQL Analysis
 
 The cleaned dataset was loaded into a SQL database to perform analytical queries.
 
-Example SQL queries:
+    ### Example SQL queries:
 
 Top products with highest discount usage
 
@@ -110,7 +110,7 @@ ORDER BY discount_rate DESC
 LIMIT 5;
 ```
 
-Customer segmentation
+## Customer segmentation
 
 ```SQL
 SELECT 
@@ -124,69 +124,69 @@ FROM customer
 GROUP BY customer_segment;
 ```
 
-##Dashboard
+## Dashboard
 
 A Power BI dashboard was built to visualize the key insights from the analysis.
 
 <img width="864" height="550" alt="image" src="https://github.com/user-attachments/assets/4fbf9107-3ffd-4495-b320-36e7cffd07ce" />
 
 
-###Dashboard features include:
+### Dashboard features include:
 
-Revenue analysis
+- Revenue analysis
 
-Customer segmentation
+- Customer segmentation
 
-Discount usage patterns
+- Discount usage patterns
 
-Product performance
+- Product performance
 
-Interactive filters
+- Interactive filters
 
-###Example visuals include:
+### Example visuals include:
 
-KPI cards
+- KPI cards
 
-Bar charts
+- Bar charts
 
-Donut charts
+- Donut charts
 
-Time series analysis
+- Time series analysis
 
 
 ## Results & Insights
 
 Key insights discovered during the analysis:
 
-Certain products have significantly higher discount usage rates.
+- Certain products have significantly higher discount usage rates.
 
-Loyal customers contribute a disproportionate share of total revenue.
+- Loyal customers contribute a disproportionate share of total revenue.
 
-Discount strategies impact purchasing behavior differently across customer segments.
+- Discount strategies impact purchasing behavior differently across customer segments.
 
-Seasonal trends influence purchasing patterns.
+- Seasonal trends influence purchasing patterns.
 
-These insights can help businesses optimize pricing, marketing, and customer retention strategies.
+#### These insights can help businesses optimize pricing, marketing, and customer retention strategies.
 
 
-##How to Run the Project
-###1. Clone the Repository
+## How to Run the Project
+### 1. Clone the Repository
 
 ```Bash
 git clone https://github.com/yourusername/data-analytics-project.git
 cd data-analytics-project
 ```
-###2. Install Dependencies
+### 2. Install Dependencies
 ```Bash
 pip install pandas numpy matplotlib seaborn sqlalchemy psycopg2
 ```
 
-###3. Run the Python Analysis
+### 3. Run the Python Analysis
 ```Bash
 python analysis.py
 ```
 
-###4. Run SQL Queries
+### 4. Run SQL Queries
 
 Load the cleaned dataset into your SQL database and execute the queries provided in the sql_queries.sql 
 ```Bash
@@ -198,7 +198,7 @@ file.
 
 Open the .pbix file in Power BI Desktop to interact with the dashboard.
 
-###Project Structure
+### Project Structure
 
 ```
 data-analytics-project
@@ -222,13 +222,13 @@ data-analytics-project
 └── README.md
 ```
 
-##Future Improvements
+## Future Improvements
 
-Add predictive modeling
+- Add predictive modeling
 
-Deploy dashboard to Power BI Service
+- Deploy dashboard to Power BI Service
 
-Automate data pipeline
+- Automate data pipeline
 
-Integrate real-time data updates
+- Integrate real-time data updates
 
