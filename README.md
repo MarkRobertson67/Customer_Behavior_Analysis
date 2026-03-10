@@ -97,7 +97,7 @@ df.drop_duplicates(inplace=True)
 
 The cleaned dataset was loaded into a SQL database to perform analytical queries.
 
-    ### Example SQL queries:
+### Example SQL queries:
 
 Top products with highest discount usage
 
@@ -194,7 +194,7 @@ sql_queries.sql
 ```
 file.
 
-###5. Open the Power BI Dashboard
+### 5. Open the Power BI Dashboard
 
 Open the .pbix file in Power BI Desktop to interact with the dashboard.
 
