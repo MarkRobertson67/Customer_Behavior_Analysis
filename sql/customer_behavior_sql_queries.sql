@@ -114,3 +114,4 @@ FROM customer
 GROUP BY age_group, subscription_status
 ORDER BY age_group, avg_spend DESC;
 -- The results show that the difference between the average spend, across age groups, is negligible.
+
