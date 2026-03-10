@@ -1,5 +1,9 @@
 # Data Analytics Project
 
+<p align="center">
+  <img width="650" alt="Customer Behavior Dashboard" src="https://github.com/user-attachments/assets/4fbf9107-3ffd-4495-b320-36e7cffd07ce">
+</p>
+
 ## Overview
 This project demonstrates an end-to-end data analytics workflow using Python, SQL, and Power BI. The goal of the project is to analyze a dataset, uncover insights through exploratory data analysis (EDA), clean and transform the data, and present findings through an interactive dashboard and written report.
 
