@@ -189,6 +189,26 @@ Key insights discovered during the analysis:
 
 #### These insights can help businesses optimize pricing, marketing, and customer retention strategies.
 
+## Future Improvements
+
+- Add predictive modeling
+
+- Deploy dashboard to Power BI Service
+
+- Automate data pipeline
+
+- Integrate real-time data updates
+
+
+## What I Learned
+
+Through this project, I strengthened my ability to:
+
+- clean and prepare raw Excel data using Python
+- write SQL queries to answer business questions
+- translate query results into dashboard visuals in Power BI
+- think beyond the data by identifying business insights and recommendations
+
 
 ## How to Run the Project
 ### 1. Clone the Repository
@@ -242,16 +262,6 @@ data-analytics-project
 │
 └── README.md
 ```
-
-## Future Improvements
-
-- Add predictive modeling
-
-- Deploy dashboard to Power BI Service
-
-- Automate data pipeline
-
-- Integrate real-time data updates
 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
