@@ -1,13 +1,15 @@
-# Data Analytics Project
+<h1 align="center">Customer Purchase Behavior Analysis | Python, SQL & Power BI</h1>
 
 <p align="center">
   <img width="650" alt="Customer Behavior Dashboard" src="https://github.com/user-attachments/assets/4fbf9107-3ffd-4495-b320-36e7cffd07ce">
 </p>
 
 ## Overview
-This project demonstrates an end-to-end data analytics workflow using Python, SQL, and Power BI. The goal of the project is to analyze a dataset, uncover insights through exploratory data analysis (EDA), clean and transform the data, and present findings through an interactive dashboard and written report.
 
-The project follows a typical real-world analytics pipeline used by data analysts and business intelligence teams.
+This project analyzes customer purchasing behavior using an end-to-end analytics workflow.  
+The dataset was cleaned using **Python (Pandas)**, analyzed with **SQL**, and visualized using an **interactive Power BI dashboard**.
+
+The goal is to identify patterns in customer spending, discount usage, and purchasing trends to generate insights that could help businesses improve marketing strategies and revenue performance.
 
 ---
 
