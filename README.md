@@ -232,3 +232,8 @@ data-analytics-project
 
 - Integrate real-time data updates
 
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-green)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+
