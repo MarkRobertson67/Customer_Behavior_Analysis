@@ -35,6 +35,19 @@ The dataset is loaded and processed using Python before being stored in a SQL da
 
 ---
 
+## Data Pipeline
+
+Excel Dataset  
+↓  
+Python (Pandas) Data Cleaning  
+↓  
+Cleaned Dataset  
+↓  
+SQL Analysis  
+↓  
+Power BI Dashboard
+
+
 ## Project Steps
 
 ### 1. Data Loading
