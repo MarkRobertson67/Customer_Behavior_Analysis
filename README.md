@@ -94,6 +94,7 @@ SQL Analysis
 ↓  
 Power BI Dashboard
 
+---
 
 ## Project Steps
 
@@ -183,6 +184,7 @@ COUNT(*) AS customers
 FROM customer
 GROUP BY customer_segment;
 ```
+---
 
 ## Dashboard
 
@@ -213,6 +215,7 @@ A Power BI dashboard was built to visualize the key insights from the analysis. 
 
 - Time series analysis
 
+---
 
 ## Results & Insights
 
@@ -230,6 +233,7 @@ Key insights discovered during the analysis:
 
 #### These insights can help businesses optimize pricing, marketing, and customer retention strategies.
 
+---
 
 ## Business Recommendations
 
@@ -243,6 +247,7 @@ Based on the analysis, several actionable recommendations can be made:
 
 - Focus inventory and marketing on consistently high-performing product categories to maximize sales opportunities.
 
+---
 
 ## Future Improvements
 
@@ -254,6 +259,7 @@ Based on the analysis, several actionable recommendations can be made:
 
 - Integrate real-time data updates
 
+---
 
 ## What I Learned
 
@@ -264,6 +270,7 @@ Through this project, I strengthened my ability to:
 - translate query results into dashboard visuals in Power BI
 - think beyond the data by identifying business insights and recommendations
 
+---
 
 ## How to Run the Project
 ### 1. Clone the Repository
