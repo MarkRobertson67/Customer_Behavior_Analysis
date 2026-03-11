@@ -15,6 +15,31 @@ The goal is to identify patterns in customer spending, discount usage, and purch
 
 ---
 
+## Business Problem
+
+Retail businesses often collect large amounts of customer purchasing data but struggle to translate that data into actionable insights.
+
+The goal of this project is to analyze customer purchase behavior to answer key business questions such as:
+
+- Which customer segments generate the most revenue?
+- How do discounts influence purchasing behavior?
+- Do subscription customers spend more than non-subscribed customers?
+- Which products and categories drive the most purchases?
+
+By combining Python data cleaning, SQL analysis, and Power BI visualization, this project demonstrates how raw customer data can be transformed into insights that support data-driven business decisions.
+
+---
+
+## Skills Demonstrated
+
+- Data cleaning with Python (Pandas)
+- SQL data analysis and aggregation
+- Customer segmentation analysis
+- Business insight generation
+- Interactive dashboard design in Power BI
+
+---
+
 ## Key Analytical Questions & Insights
 
 | Analytical Question | Key Insight |
