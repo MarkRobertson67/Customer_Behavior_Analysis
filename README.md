@@ -1,6 +1,6 @@
 <h1 align="center">Customer Purchase Behavior Analysis | Python, SQL & Power BI</h1>
 An end-to-end data analytics project that cleans retail customer data using Python, analyzes purchasing behavior with SQL, and visualizes key insights through an interactive Power BI dashboard.
-<br>
+<br><br><br>
 
 <p align="center">
   <img width="650" alt="Customer Behavior Dashboard" src="https://github.com/user-attachments/assets/4fbf9107-3ffd-4495-b320-36e7cffd07ce">
