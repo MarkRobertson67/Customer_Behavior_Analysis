@@ -1,4 +1,5 @@
 <h1 align="center">Customer Purchase Behavior Analysis | Python, SQL & Power BI</h1>
+An end-to-end data analytics project that cleans retail customer data using Python, analyzes purchasing behavior with SQL, and visualizes key insights through an interactive Power BI dashboard.
 
 <p align="center">
   <img width="650" alt="Customer Behavior Dashboard" src="https://github.com/user-attachments/assets/4fbf9107-3ffd-4495-b320-36e7cffd07ce">
@@ -179,15 +180,16 @@ A Power BI dashboard was built to visualize the key insights from the analysis. 
 
 Key insights discovered during the analysis:
 
-- Certain products have significantly higher discount usage rates.
+- Male customers generated higher overall revenue in the dataset, indicating potential demographic differences in purchasing behavior.
 
-- Loyal customers contribute a disproportionate share of total revenue.
+- Several products exhibit significantly higher discount usage rates, suggesting those items may be more price-sensitive or frequently promoted.
 
-- Discount strategies impact purchasing behavior differently across customer segments.
+- Subscription status appears associated with stronger spending behavior, as subscribed customers show higher average purchase amounts and total revenue contribution.
 
-- Seasonal trends influence purchasing patterns.
+- Customer segmentation highlights the importance of repeat buyers, suggesting retention strategies could be valuable for increasing long-term revenue.
 
 #### These insights can help businesses optimize pricing, marketing, and customer retention strategies.
+
 
 ## Future Improvements
 
