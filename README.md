@@ -1,5 +1,6 @@
 <h1 align="center">Customer Purchase Behavior Analysis | Python, SQL & Power BI</h1>
 An end-to-end data analytics project that cleans retail customer data using Python, analyzes purchasing behavior with SQL, and visualizes key insights through an interactive Power BI dashboard.
+<br>
 
 <p align="center">
   <img width="650" alt="Customer Behavior Dashboard" src="https://github.com/user-attachments/assets/4fbf9107-3ffd-4495-b320-36e7cffd07ce">
@@ -11,6 +12,18 @@ This project analyzes customer purchasing behavior using an end-to-end analytics
 The dataset was cleaned using **Python (Pandas)**, analyzed with **SQL**, and visualized using an **interactive Power BI dashboard**.
 
 The goal is to identify patterns in customer spending, discount usage, and purchasing trends to generate insights that could help businesses improve marketing strategies and revenue performance.
+
+---
+
+## Key Analytical Questions & Insights
+
+| Analytical Question | Key Insight |
+|---------------------|-------------|
+| Revenue by gender | Male customers generated higher total revenue in this dataset. |
+| Discount usage by product | Certain products have significantly higher discount usage rates, suggesting reliance on promotional pricing. |
+| Subscription vs. non-subscription spending | Customers with active subscriptions show higher average purchase amounts and total revenue contribution. |
+| Customer segmentation | Repeat and loyal customers represent an important portion of the customer base, highlighting the value of retention strategies. |
+| Top products by category | Some product categories consistently appear among the most frequently purchased items, indicating strong demand patterns. |
 
 ---
 
@@ -180,13 +193,15 @@ A Power BI dashboard was built to visualize the key insights from the analysis. 
 
 Key insights discovered during the analysis:
 
-- Male customers generated higher overall revenue in the dataset, indicating potential demographic differences in purchasing behavior.
+- Male customers generated significantly higher total revenue than female customers in this dataset.
 
-- Several products exhibit significantly higher discount usage rates, suggesting those items may be more price-sensitive or frequently promoted.
+- Several products show a high percentage of purchases made with discounts, indicating that some product categories rely more heavily on promotional pricing.
 
-- Subscription status appears associated with stronger spending behavior, as subscribed customers show higher average purchase amounts and total revenue contribution.
+- Customers with active subscriptions demonstrate higher average purchase amounts and contribute greater total revenue than non-subscribed customers.
 
-- Customer segmentation highlights the importance of repeat buyers, suggesting retention strategies could be valuable for increasing long-term revenue.
+- Repeat and loyal customers represent a meaningful portion of the customer base, highlighting the importance of retention strategies and loyalty programs.
+
+- Certain product categories consistently appear among the most frequently purchased items, suggesting strong customer demand and potential opportunities for targeted promotions.
 
 #### These insights can help businesses optimize pricing, marketing, and customer retention strategies.
 
