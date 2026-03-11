@@ -1,5 +1,5 @@
 <h1 align="center">Customer Purchase Behavior Analysis <br> Python, SQL & Power BI</h1>
-An end-to-end data analytics project that cleans retail customer data using Python, analyzes purchasing behavior with SQL, and visualizes key insights through an interactive Power BI dashboard.
+End-to-end analytics project exploring customer purchasing behavior using Python for data cleaning, SQL for analysis, and Power BI for interactive visualization.
 
 ![Python](https://img.shields.io/badge/Python-Pandas-blue)
 ![SQL](https://img.shields.io/badge/SQL-Analysis-green)
@@ -57,6 +57,7 @@ By combining Python data cleaning, SQL analysis, and Power BI visualization, thi
 ---
 
 ## Dataset
+This project uses a publicly available retail customer dataset commonly used for analytics learning and demonstration purposes.
 The dataset used in this project contains transactional/customer information used to analyze patterns and trends.
 
 **Example attributes include:**
