@@ -1,4 +1,4 @@
-<h1 align="center">Customer Purchase Behavior Analysis | Python, SQL & Power BI</h1>
+<h1 align="center">Customer Purchase Behavior Analysis <br> Python, SQL & Power BI</h1>
 An end-to-end data analytics project that cleans retail customer data using Python, analyzes purchasing behavior with SQL, and visualizes key insights through an interactive Power BI dashboard.
 <br><br><br>
 
@@ -229,6 +229,19 @@ Key insights discovered during the analysis:
 - Certain product categories consistently appear among the most frequently purchased items, suggesting strong customer demand and potential opportunities for targeted promotions.
 
 #### These insights can help businesses optimize pricing, marketing, and customer retention strategies.
+
+
+## Business Recommendations
+
+Based on the analysis, several actionable recommendations can be made:
+
+- Increase marketing efforts aimed at converting customers into subscription members, as subscribed customers demonstrate higher spending behavior.
+
+- Evaluate pricing and promotion strategies for products with high discount usage to ensure discounts are effectively driving revenue rather than reducing margins.
+
+- Develop retention strategies targeting repeat and loyal customers, as they represent a valuable portion of the customer base.
+
+- Focus inventory and marketing on consistently high-performing product categories to maximize sales opportunities.
 
 
 ## Future Improvements
