@@ -8,7 +8,6 @@ End-to-end analytics project exploring customer purchasing behavior using Python
 
 <p align="center">
   <img width="650" alt="Customer Behavior Dashboard" src="https://github.com/user-attachments/assets/bc24b03e-218a-43c9-a302-2162518e242b" />
-
 </p>
 
 ## Overview
@@ -196,7 +195,7 @@ GROUP BY customer_segment;
 
 A Power BI dashboard was built to visualize the key insights from the analysis.  Power BI was connected directly to the PostgreSQL database so the dashboard reflects the cleaned analytical dataset.
 
-<img width="864" height="550" alt="image" src="https://github.com/user-attachments/assets/4fbf9107-3ffd-4495-b320-36e7cffd07ce" />
+<img width="864" height="550" alt="image" src="https://github.com/user-attachments/assets/bc24b03e-218a-43c9-a302-2162518e242b" />
 
 
 ### Dashboard features include:
