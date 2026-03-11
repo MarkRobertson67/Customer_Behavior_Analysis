@@ -7,7 +7,8 @@ End-to-end analytics project exploring customer purchasing behavior using Python
 <br><br><br>
 
 <p align="center">
-  <img width="650" alt="Customer Behavior Dashboard" src="https://github.com/user-attachments/assets/4fbf9107-3ffd-4495-b320-36e7cffd07ce">
+  <img width="650" alt="Customer Behavior Dashboard" src="https://github.com/user-attachments/assets/bc24b03e-218a-43c9-a302-2162518e242b" />
+
 </p>
 
 ## Overview
